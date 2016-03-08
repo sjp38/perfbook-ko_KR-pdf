@@ -1,0 +1,8 @@
+This repository is a git repository for distribution of a PDF file that built
+from Korean translation[1] of `Is Parallel Programming Hard, And, If So, What
+Can You Do About It?`[2].  Operating a repository for build output with git is
+hilarious thinking.  However, there is no available dimain and server for now.
+So, just do it for now.
+
+[1] https://github.com/sjp38/perfbook-ko_KR
+[2] https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html
