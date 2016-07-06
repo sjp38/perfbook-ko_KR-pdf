@@ -22,6 +22,7 @@ translation from the PDF file of this repository.
 - Chapter 6: Partitioning and Synchronization Design
 - Chapter 7: Locking
 - Chapter 8: Data Ownership
+- Chapter 9: Deferred Processing
 - Chapter 14: Advanced Synchronization
 - Appendix C. Why Memory Barriers?
 
