@@ -28,6 +28,7 @@ translation from the PDF file of this repository.
 - Chapter 12: Formal Verification
 - Chapter 13: Putting It All Together
 - Chapter 14: Advanced Synchronization
+- Chapter 15: Parallel Real-time Computing
 - Appendix C. Why Memory Barriers?
 
 [1] https://github.com/sjp38/perfbook-ko_KR
