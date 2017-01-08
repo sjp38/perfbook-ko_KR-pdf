@@ -32,7 +32,7 @@ translation from the PDF file of this repository.
 - Chapter 16: Ease of Use
 - Chapter 17: Conflicting Visions of the Future
 - Appendix A. Important Questions
-- Appendix C. Why Memory Barriers?
+- Appendix B. Why Memory Barriers?
 
 [1] https://github.com/sjp38/perfbook-ko_KR
 [2] https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html
