@@ -11,8 +11,26 @@ So, just do it for now.
 Translation Progress
 ====================
 
-Whole chapters and appendices are translated and we are polishing the
-translation quality.  You can check the progress with below list.
+Whole chapters and appendices of the first edition of the book are translated
+('perfbook-1st-edition.pdf') and we were further wordsmithing it.  Because the
+second edition is released, however, we started translating it from the
+scratch, and stopped the wordsmithing of 1st edition.
+
+Second Edition
+--------------
+
+Translation is in progress.  'perfbook.pdf' in this directory is the compiled
+PDF file.
+
+- Chapter  1: How To Use This Book (completed translation)
+- Chapter  2: Introduction (translation started)
+
+
+First Edition
+-------------
+
+Translation is done.  'perfbook-1st-edition.pdf' in this directory is the
+compiled PDF file.
 
 - Chapter  1: How To Use This Book (1st polishing done)
 - Chapter  2: Introduction (1st polishing done)
