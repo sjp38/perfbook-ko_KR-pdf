@@ -12,9 +12,10 @@ Translation Progress
 ====================
 
 Whole chapters and appendices of the first edition of the book are translated
-('perfbook-1st-edition.pdf') and we were further wordsmithing it.  Because the
-second edition is released, however, we started translating it from the
-scratch, and stopped the wordsmithing of 1st edition.
+('perfbook-1st-edition.pdf'), and we were further wordsmithing it while getting
+upstream updates and translating the updates.  Because the second edition is
+released, however, we started translating it from the scratch without getting
+upstream updates, and stopped the wordsmithing of 1st edition.
 
 Second Edition
 --------------
