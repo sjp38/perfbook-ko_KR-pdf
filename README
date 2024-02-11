@@ -11,11 +11,23 @@ So, just do it for now.
 Translation Progress
 ====================
 
-Whole chapters and appendices of the first edition of the book are translated
-('perfbook-1st-edition.pdf'), and we were further wordsmithing it while getting
-upstream updates and translating the updates.  Because the second edition is
-released, however, we started translating it from the scratch without getting
-upstream updates, and stopped the wordsmithing of 1st edition.
+Currently we completed the first two editions of the book.
+
+Translation Strategy and Editions
+---------------------------------
+
+The upstream community is continuously updating the book.  Once in a while,
+they tag a version of the book as an edition.  As of this writing, the upstream
+has released two editions.
+
+We translate each edition, from the scratch.  Until the whole parts of the book
+is translated, we receive only minimum changes from the upstream.  Once the all
+parts of the book is translated, we may (or may not) get more upstream chnges
+and translate, while also wordsmithing the translation itself.
+
+The translation is for only technical parts.  Non-technical parts such as
+'Credits' chapter, and parts that translation is not required such as
+'Bibliography' chapter wouldn't be translated.
 
 Second Edition
 --------------
