@@ -20,7 +20,7 @@ upstream updates, and stopped the wordsmithing of 1st edition.
 Second Edition
 --------------
 
-Translation is in progress.  'perfbook.pdf' in this directory is the compiled
+Translation is done.  'perfbook.pdf' in this directory is the compiled
 PDF file.
 
 - Chapter  1: How To Use This Book (translated)
@@ -46,7 +46,7 @@ PDF file.
 - Appendix C: Why Memory Barriers? (translated)
 - Appendix D: Style Guide (will not be translated)
 - Appendix E: Answers to Quick Quizzes (translated)
-- Glossary (to be translated)
+- Glossary (translated)
 - Bibliography (will not be translated)
 - Credits (will not be translated)
 
